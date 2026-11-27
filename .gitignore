@@ -1,0 +1,13 @@
+Release/
+Debug/
+Common/
+*.obj
+*.pe
+*.exe
+*.xex
+*.xdb
+*.exp
+*.lib
+*.xpr
+xexconfig.xml
+__pycache__/
