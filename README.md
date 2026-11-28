@@ -9,7 +9,7 @@
 1. Copy the packaged **`OmniConvert360`** folder (`Release-Assets/OmniConvert360/OmniConvert360/`, containing `default.xex` and `OmniConvert360.xex`) onto your Xbox 360:
    - `Hdd1:\Apps\OmniConvert360\default.xex` (or `Hdd1:\Homebrew\OmniConvert360\default.xex`)
 2. Launch **`OmniConvert360`** from **Aurora**, **Freestyle Dash**, or **XeXMenu**.
-3. *(Optional)* Copy `AuroraScript/ConvertToGOD/Main.lua` into `Aurora\User\Scripts\Utility\` to launch conversions directly from Aurora's file browser via `game:\target.txt`. <span style="color: #e03131;">(SCRIPT NEEDS TO BE FIXED/UPDATED - However, the build maintains ability to accept arguments from a script)</span>
+3. *(Optional)* Copy `AuroraScript/ConvertToGOD/Main.lua` into `Aurora\User\Scripts\Utility\` to launch conversions directly from Aurora's file browser via `game:\target.txt`. ${\color{red}\text{(SCRIPT NEEDS TO BE FIXED/UPDATED - However, the build maintains ability to accept arguments from a script)}}$
 
 ---
 
