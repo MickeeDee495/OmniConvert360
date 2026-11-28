@@ -9,7 +9,7 @@
 1. Copy the packaged **`OmniConvert360`** folder (`Release-Assets/OmniConvert360/OmniConvert360/`, containing `default.xex` and `OmniConvert360.xex`) onto your Xbox 360:
    - `Hdd1:\Apps\OmniConvert360\default.xex` (or `Hdd1:\Homebrew\OmniConvert360\default.xex`)
 2. Launch **`OmniConvert360`** from **Aurora**, **Freestyle Dash**, or **XeXMenu**.
-3. *(Optional)* Copy `AuroraScript/ConvertToGOD/Main.lua` into `Aurora\User\Scripts\Utility\` to launch conversions directly from Aurora's file browser via `game:\target.txt`.
+3. *(Optional)* Copy `AuroraScript/ConvertToGOD/Main.lua` into `Aurora\User\Scripts\Utility\` to launch conversions directly from Aurora's file browser via `game:\target.txt`. (SCRIPT NEEDS TO BE FIXED/UPDATED - However, the build maintains ability to accept arguments from a script)
 
 ---
 
@@ -74,8 +74,3 @@ Authored by **MickeeDee495** (https://github.com). OmniConvert360 is an original
 2. **miniz (`miniz/`):** Public-domain single-file Deflate/zlib inflation library by **Rich Geldreich** (Public Domain / MIT).
 3. **Microsoft Xbox 360 XDK & ATG Framework (`Common/`):** `AtgConsole`, `AtgDevice`, `AtgFont`, `AtgResource`, and `AtgUtil` helper classes from the **Microsoft Xbox 360 SDK**, plus `xgraphics` / `d3dx9` PNG encoding and `xboxkrnl` `XeCryptSha*` / `NtOpenFile` / `NtReadFile` kernel APIs.
 4. **Xbox 360 & Original Xbox Format Specifications:** Clean-room binary layout implementations based on community-documented specifications (`Free60` / `XboxDevWiki`) for `XISO` (`MICROSOFT*XBOX*MEDIA`), `XEX2` optional headers, `XBE` (`XBEH`) section headers (`$$XTIMAGE`), `XDBF` (`SPA`) title resources, and `LIVE` / `SVOD` container hash tables.
-
-
-
-
-
